@@ -13,7 +13,7 @@ export default function Landing() {
                         height={0}
                         layout="fill"
                         objectFit="cover"
-                        quality={100}
+                        placeholder='blur'
                     />
                 </div>
             </div>
